@@ -1,0 +1,9 @@
+<launch>
+	<node name="my_tracker" pkg="fusion_tracker" type="fusion_tracker_node" output="screen" 
+	args="--flagfile=/home/larrydong/tracking_ws/src/FusionTracking/fusion_tracker/config/icp.conf" >
+		<remap from="/image" to="/dvs/image_raw" />
+		<remap from="/events" to="/dvs/events" />
+		
+	</node>
+</launch>
+
