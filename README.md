@@ -8,12 +8,26 @@ This repository provides a novel event-based feature tracking algorithm. This al
 </figure>
 </center>
 
+Full paper avaliable: 
+[@ACM DL](https://dl.acm.org/doi/10.1145/3459066.3459075)
+[@Research Gate](https://www.researchgate.net/publication/353470971_Standard_and_Event_Cameras_Fusion_for_Feature_Tracking)
+
 
 ## Citaion
 Please cite this paper if you use this code in an academic publication.
 
-Paper avliable: [https://dl.acm.org/doi/abs/10.1145/3459066.3459075](https://dl.acm.org/doi/abs/10.1145/3459066.3459075)
-
+```
+@inproceedings{10.1145/3459066.3459075,
+author = {Dong, Yan and Zhang, Tao},
+title = {Standard and Event Cameras Fusion for Feature Tracking},
+year = {2021},
+isbn = {9781450389556},
+publisher = {Association for Computing Machinery},
+url = {https://doi.org/10.1145/3459066.3459075},
+doi = {10.1145/3459066.3459075},
+pages = {55–60},
+}
+```
 
 
 ## Build and Run
@@ -86,8 +100,3 @@ This amazing tool can draw beautiful curves. The following pictures show the "fe
 <img src="https://raw.githubusercontent.com/LarryDong/FusionTracking/main/Pictures/result.png" />
 </figure>
 </center>
-
-
-## Remark
-**This readme will be updated when the paper is formally published.**
-
