@@ -16,7 +16,7 @@ Full paper avaliable:
 ## Citaion
 Please cite this paper if you use this code in an academic publication.
 
-```
+```bibtex
 @inproceedings{10.1145/3459066.3459075,
 author = {Dong, Yan and Zhang, Tao},
 title = {Standard and Event Cameras Fusion for Feature Tracking},
